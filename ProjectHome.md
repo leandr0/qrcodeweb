@@ -1,0 +1,1 @@
+Interface web que permite gerar QRCode on-line e fazer upload de imagens para serem lidas
